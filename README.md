@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Alokkumar1824&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 <!--
+
 **Alokkumar1824/Alokkumar1824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
