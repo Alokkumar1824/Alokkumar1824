@@ -3,8 +3,7 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Alokkumar1824&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alokkumar1824&theme=dark)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alokkumar1824&theme=dark" alt="GitHub Streak" /></a>
+
 <!--
 
 **Alokkumar1824/Alokkumar1824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
