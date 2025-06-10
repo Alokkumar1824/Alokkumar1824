@@ -1,4 +1,4 @@
-                                       Hi 👋 , I'm ALOK KUMAR
+##Hi 👋 
 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Alokkumar1824&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h1 align="center">Hi 👋, I'm ALOK KUMAR</h1>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alokkumar1824&theme=dark)](https://git.io/streak-stats)
