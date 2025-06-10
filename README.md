@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alokkumar1824&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 📸 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alokkumar1824)
